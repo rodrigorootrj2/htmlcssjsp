@@ -1,0 +1,76 @@
+/* 
+    width: 60px; Largura
+    height:60px; Altura
+*/
+body{
+    background-color:#FFFFFF;
+}
+h1{
+    color: black;
+    margin-left: 20px;
+}
+#master{
+    position:absolute;
+    height:100%;
+    width:100%;
+}
+/* Header */
+
+#header-bg{    
+    position:relative;
+    height:20%;
+    width:100%;
+    background-color:#808080;
+
+}
+
+#header-logo{
+    position:relative;    
+    width:40px; 
+    height:40px;
+    right:0;
+    bottom:0;
+}
+
+#header-nav{
+    position:relative;
+    width:40px;
+    height:60px;
+}
+
+#nav-menu-container-div{
+    position:relative;
+    width:80%;    
+    padding:0px;
+}
+
+#feel{
+    position:relative;
+    width:0px;
+    height:0px;
+    padding:0px;
+    right:0;
+    bottom:0;
+    z-index:1;
+}
+/* Footer */
+#footer-bg{
+    position:fixed;
+    padding:0px;
+    bottom:0;
+    height:60px;    
+    width:100%;
+    left:0;
+    background-color:#e01717;
+}
+
+#footer-bg-strong{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    text-align:center;
+    padding:10;
+}
+
+/* #buttons */
+/* #forms */
