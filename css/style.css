@@ -1,0 +1,43 @@
+#main{
+    position:absolute;
+    background-color:blue;
+    height:800px;
+    width:100%;
+    border:2px solid black;
+}
+#subdiv{
+    position:relative;
+    background-color:green;
+    height:200px;
+    width:100%;
+    border:2px solid black;
+
+}
+#subsubdiva{
+    position:relative;
+    background-color:yellow;
+    height:100px;
+    width:100%;
+    border:2px solid black;
+    top:10px;
+    padding:0px;
+}
+#subsubdivb{
+    position:relative;
+    background-color:red;
+    height:100px;
+    width:100%;
+    border:2px solid black;
+    top:10px;
+    padding:0px;
+}
+#subdivb{
+    position:relative;
+    background-color:yellow;
+    height:50px;
+    width:100px;
+    left:100px;
+    top:0px;
+    border:2px solid black;
+}
+
